@@ -1,0 +1,2895 @@
+{
+ "M-001": [
+  {
+   "fecha": "2023-01-05",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 13.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-07-11",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 13.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-02-28",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 13.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2024-10-20",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 13.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2025-09-25",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 13.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-12-31",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 13.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2026-05-16",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 13.0,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  }
+ ],
+ "M-002": [
+  {
+   "fecha": "2012-06-11",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 6.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2013-01-23",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 6.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2013-12-31",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 6.3,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2015-02-05",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 6.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2015-05-14",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 6.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2016-06-10",
+   "veterinario": "V3",
+   "motivo": "tos",
+   "peso_kg": 6.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2016-08-25",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 6.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2017-10-11",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 6.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-11-13",
+   "veterinario": "V1",
+   "motivo": "desparasitación",
+   "peso_kg": 6.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-12-28",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 6.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-07-05",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 6.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2021-07-03",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 6.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2021-10-18",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 6.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-12-05",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 6.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-003": [
+  {
+   "fecha": "2019-01-11",
+   "veterinario": "V1",
+   "motivo": "desparasitación",
+   "peso_kg": 6.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-05-18",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 6.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-05-16",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 6.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-11-21",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 6.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2021-03-14",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 6.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-07-29",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 6.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-08-22",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 6.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-05-22",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 6.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2024-07-02",
+   "veterinario": "V2",
+   "motivo": "dermatitis",
+   "peso_kg": 5.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-03-27",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 6.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-12-06",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 5.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  }
+ ],
+ "M-004": [
+  {
+   "fecha": "2023-02-15",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 13.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-06-22",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 12.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2024-05-06",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 13.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-10-23",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 13.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-03-26",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 13.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2025-07-20",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 13.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2026-03-27",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 13.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-10-13",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 12.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-005": [
+  {
+   "fecha": "2014-04-26",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 11.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2014-12-31",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2015-11-28",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 11.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2016-04-01",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 11.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2016-07-31",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 12.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2017-03-17",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 12.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2018-05-03",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 12.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2018-11-06",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 13.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-10-06",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 12.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-03-21",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 12.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-10-06",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 12.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-10-05",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 12.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-03-07",
+   "veterinario": "V1",
+   "motivo": "desparasitación",
+   "peso_kg": 12.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-02-10",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 12.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-006": [
+  {
+   "fecha": "2022-03-03",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 20.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2022-09-15",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 21.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-01-01",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 21.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-04-02",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 21.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-05-06",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 21.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-06-21",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 20.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2026-02-13",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 20.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-09-05",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 20.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  }
+ ],
+ "M-007": [
+  {
+   "fecha": "2023-10-02",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 16.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-04-13",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 17.0,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2025-02-17",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 16.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-07-05",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 17.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-08-24",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 17.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-008": [
+  {
+   "fecha": "2014-02-02",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 11.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2015-02-02",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 11.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2015-08-05",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 12.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2016-03-13",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 12.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2016-11-20",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 12.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2017-02-17",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 12.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2018-02-13",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2018-07-05",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 12.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2018-10-09",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 12.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-10-14",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 12.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-09-01",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 12.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-07-03",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 12.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-02-25",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-01-18",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 12.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  }
+ ],
+ "M-009": [
+  {
+   "fecha": "2012-07-30",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 11.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2013-08-24",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 11.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2014-02-03",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 11.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2014-04-29",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 12.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2014-12-27",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 12.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2015-12-09",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 12.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2016-03-01",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2016-06-29",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2017-06-15",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 12.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2017-11-29",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 12.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-12-01",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 11.6,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-05-20",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 11.4,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-02-25",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 11.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2020-08-05",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 12.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-010": [
+  {
+   "fecha": "2016-05-15",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 17.3,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2017-01-13",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 17.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2017-05-31",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 18.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-06-07",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 18.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-09-08",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 18.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-08-13",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 17.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-04-28",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 17.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2020-06-28",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 17.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-10-10",
+   "veterinario": "V3",
+   "motivo": "tos",
+   "peso_kg": 17.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-10-01",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 18.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2022-03-16",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 17.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-08-26",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 18.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-01-28",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 18.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-08-03",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 17.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-011": [
+  {
+   "fecha": "2017-11-17",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 5.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2018-07-25",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 5.7,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2019-07-22",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 5.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-07-02",
+   "veterinario": "V1",
+   "motivo": "diarrea",
+   "peso_kg": 5.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-04-05",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 5.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-03-27",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 6.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-07-15",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 5.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2022-09-15",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 6.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2022-11-17",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 6.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-09-19",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 6.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-01-31",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 6.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2025-03-25",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 5.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-05-08",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 5.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2026-08-30",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 5.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  }
+ ],
+ "M-012": [
+  {
+   "fecha": "2022-10-23",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 32.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-02-01",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 32.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-05-30",
+   "veterinario": "V3",
+   "motivo": "otitis",
+   "peso_kg": 33.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-03-01",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 32.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2024-07-26",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 31.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-09-12",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 31.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-05-15",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 32.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Pide cita de control."
+  }
+ ],
+ "M-013": [
+  {
+   "fecha": "2023-04-21",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 12.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-11-16",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 12.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-12-01",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 12.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2025-03-29",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 12.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2025-11-09",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 12.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-014": [
+  {
+   "fecha": "2015-10-27",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 20.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2016-01-01",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 19.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2016-07-20",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 19.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2017-06-16",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 19.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2017-12-16",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 18.6,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2018-10-21",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 18.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-05-09",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 17.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-01-19",
+   "veterinario": "V3",
+   "motivo": "dermatitis",
+   "peso_kg": 18.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-07-05",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 17.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-12-10",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 17.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2022-01-08",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 16.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-08-27",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 16.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-03-02",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 16.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-07-13",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 16.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  }
+ ],
+ "M-015": [
+  {
+   "fecha": "2019-05-06",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 30.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-08-29",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 30.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-10-20",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 31.2,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2021-04-15",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 31.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-01-21",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 31.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-09-17",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 30.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-08-17",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 29.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-02-12",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 29.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2025-03-02",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 29.6,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-10-25",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 29.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-07-02",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 29.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-016": [
+  {
+   "fecha": "2018-09-08",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 10.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2019-03-31",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 10.7,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-10-21",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 10.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-03-22",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 10.3,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-11-26",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 10.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-04-10",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 10.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-02-16",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 10.7,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2022-12-14",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 10.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-07-10",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 10.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-07-12",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 10.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2025-07-14",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 10.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-07-22",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 10.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-017": [
+  {
+   "fecha": "2016-04-04",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 4.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2017-03-15",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 4.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-01-15",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 4.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2019-01-10",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 3.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2019-10-23",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 3.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-05-14",
+   "veterinario": "V1",
+   "motivo": "desparasitación",
+   "peso_kg": 4.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-06-20",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 4.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2021-10-01",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 4.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-11-08",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 4.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-01-10",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 4.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-11-22",
+   "veterinario": "V2",
+   "motivo": "dermatitis",
+   "peso_kg": 4.4,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-11-03",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.3,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-11-01",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 4.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-03-07",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-018": [
+  {
+   "fecha": "2023-04-28",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 5.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-10-03",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 4.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2024-01-24",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 4.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2025-01-22",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 4.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-12-23",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 4.9,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-06-19",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 5.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-019": [
+  {
+   "fecha": "2018-03-15",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 3.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-01-01",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 3.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-10-17",
+   "veterinario": "V1",
+   "motivo": "desparasitación",
+   "peso_kg": 3.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2020-01-22",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 3.9,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-10-24",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 3.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-05-01",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 4.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2022-02-25",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 4.0,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-07-14",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 3.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-09-12",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 3.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-05-09",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 3.9,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-03-12",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 3.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-08-15",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 3.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-06-02",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 3.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-01-27",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 3.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-020": [
+  {
+   "fecha": "2013-11-12",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 7.6,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2014-08-20",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 7.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2015-10-02",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 7.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2016-06-11",
+   "veterinario": "V3",
+   "motivo": "cojera",
+   "peso_kg": 7.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2017-03-28",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 8.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2017-12-24",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 8.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2019-01-05",
+   "veterinario": "V2",
+   "motivo": "dermatitis",
+   "peso_kg": 8.3,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2019-04-13",
+   "veterinario": "V2",
+   "motivo": "dermatitis",
+   "peso_kg": 8.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2019-07-27",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 8.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-08-08",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 8.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2021-09-01",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 8.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-06-05",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 8.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-07-28",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 8.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-06-14",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 8.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-021": [
+  {
+   "fecha": "2017-08-15",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 3.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2018-04-03",
+   "veterinario": "V3",
+   "motivo": "tos",
+   "peso_kg": 3.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2018-10-06",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 3.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2019-07-26",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 3.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-11-25",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 3.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2020-07-25",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 3.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2021-07-12",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 3.7,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-08-24",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 3.6,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-03-08",
+   "veterinario": "V1",
+   "motivo": "diarrea",
+   "peso_kg": 3.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-09-15",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 3.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2024-02-01",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 3.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2024-04-11",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 3.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2025-03-13",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 3.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-12-10",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 3.5,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-022": [
+  {
+   "fecha": "2014-07-12",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 4.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2015-07-20",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2016-02-14",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 4.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2017-03-27",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 4.4,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2017-11-23",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 4.5,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-01-14",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 4.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-05-02",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 4.4,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-12-16",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-08-30",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 4.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-05-30",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 4.3,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2021-08-20",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 4.3,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-02-01",
+   "veterinario": "V3",
+   "motivo": "control de peso",
+   "peso_kg": 4.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2023-02-24",
+   "veterinario": "V2",
+   "motivo": "cojera",
+   "peso_kg": 4.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-07-02",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  }
+ ],
+ "M-023": [
+  {
+   "fecha": "2012-11-08",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 4.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2013-09-20",
+   "veterinario": "V2",
+   "motivo": "dermatitis",
+   "peso_kg": 4.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2014-10-28",
+   "veterinario": "V2",
+   "motivo": "desparasitación",
+   "peso_kg": 4.2,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2015-12-01",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 4.0,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2016-09-20",
+   "veterinario": "V1",
+   "motivo": "revisión anual",
+   "peso_kg": 3.9,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2016-12-14",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 3.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2018-02-01",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 3.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-03-12",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 3.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-10-29",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 3.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-08-11",
+   "veterinario": "V2",
+   "motivo": "control de peso",
+   "peso_kg": 3.6,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-07-05",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 3.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-04-07",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 3.4,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-09-16",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 3.5,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-08-24",
+   "veterinario": "V1",
+   "motivo": "diarrea",
+   "peso_kg": 3.4,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  }
+ ],
+ "M-024": [
+  {
+   "fecha": "2015-10-11",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 4.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2016-02-18",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 5.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2016-12-25",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 4.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2017-03-23",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 4.9,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2018-01-03",
+   "veterinario": "V2",
+   "motivo": "herida en una pata",
+   "peso_kg": 4.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2018-07-26",
+   "veterinario": "V1",
+   "motivo": "diarrea",
+   "peso_kg": 5.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-01-28",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 5.2,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2019-09-28",
+   "veterinario": "V2",
+   "motivo": "vómitos",
+   "peso_kg": 5.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2019-12-28",
+   "veterinario": "V3",
+   "motivo": "tos",
+   "peso_kg": 5.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2020-03-25",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 5.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2020-06-02",
+   "veterinario": "V1",
+   "motivo": "cojera",
+   "peso_kg": 5.0,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "meloxicam, 5 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2021-05-15",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 4.9,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-11-14",
+   "veterinario": "V3",
+   "motivo": "desparasitación",
+   "peso_kg": 4.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2022-10-04",
+   "veterinario": "V1",
+   "motivo": "dermatitis",
+   "peso_kg": 4.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "champú de clorhexidina",
+   "notas": ""
+  }
+ ],
+ "M-025": [
+  {
+   "fecha": "2023-05-16",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 6.0,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2024-05-17",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 6.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2024-10-02",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 6.2,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-10-22",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 6.4,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2026-02-11",
+   "veterinario": "V1",
+   "motivo": "vacunación",
+   "peso_kg": 6.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-04-21",
+   "veterinario": "V1",
+   "motivo": "limpieza dental",
+   "peso_kg": 6.9,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Dueño muy pendiente."
+  }
+ ],
+ "M-026": [
+  {
+   "fecha": "2022-01-19",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 3.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-11-13",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 3.7,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-04-19",
+   "veterinario": "V1",
+   "motivo": "vómitos",
+   "peso_kg": 3.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-12-05",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 3.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-06-25",
+   "veterinario": "V3",
+   "motivo": "otitis",
+   "peso_kg": 3.8,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-04-04",
+   "veterinario": "V2",
+   "motivo": "tos",
+   "peso_kg": 3.8,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-10-28",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 3.8,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Morder al explorar: bozal."
+  }
+ ],
+ "M-027": [
+  {
+   "fecha": "2022-11-15",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 4.8,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2023-03-13",
+   "veterinario": "V3",
+   "motivo": "revisión anual",
+   "peso_kg": 4.7,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2024-04-15",
+   "veterinario": "V3",
+   "motivo": "vacunación",
+   "peso_kg": 4.6,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2024-06-18",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 4.7,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2025-07-19",
+   "veterinario": "V3",
+   "motivo": "limpieza dental",
+   "peso_kg": 4.6,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2025-09-23",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 4.5,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-04-13",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 4.7,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  }
+ ],
+ "M-028": [
+  {
+   "fecha": "2020-04-25",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 1.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2020-11-26",
+   "veterinario": "V2",
+   "motivo": "limpieza dental",
+   "peso_kg": 1.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "limpieza bajo sedación",
+   "notas": ""
+  },
+  {
+   "fecha": "2021-07-22",
+   "veterinario": "V2",
+   "motivo": "vacunación",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": ""
+  },
+  {
+   "fecha": "2022-03-04",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 1.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2022-09-12",
+   "veterinario": "V2",
+   "motivo": "revisión anual",
+   "peso_kg": 1.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "ninguno",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2023-04-14",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 1.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2023-07-24",
+   "veterinario": "V1",
+   "motivo": "control de peso",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "ninguno",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2024-05-09",
+   "veterinario": "V3",
+   "motivo": "vómitos",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y maropitant",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2024-07-24",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 1.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-01-20",
+   "veterinario": "V3",
+   "motivo": "herida en una pata",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2025-07-24",
+   "veterinario": "V3",
+   "motivo": "diarrea",
+   "peso_kg": 1.1,
+   "exploracion": "Ligero sobrepeso.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-05-13",
+   "veterinario": "V1",
+   "motivo": "diarrea",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": ""
+  },
+  {
+   "fecha": "2026-08-21",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 1.1,
+   "exploracion": "Constantes normales.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  }
+ ],
+ "M-029": [
+  {
+   "fecha": "2023-06-07",
+   "veterinario": "V1",
+   "motivo": "tos",
+   "peso_kg": 2.2,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2024-01-31",
+   "veterinario": "V3",
+   "motivo": "tos",
+   "peso_kg": 2.2,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "doxiciclina, 10 días",
+   "notas": "Dueño muy pendiente."
+  },
+  {
+   "fecha": "2024-08-02",
+   "veterinario": "V1",
+   "motivo": "otitis",
+   "peso_kg": 2.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": ""
+  },
+  {
+   "fecha": "2025-04-08",
+   "veterinario": "V2",
+   "motivo": "otitis",
+   "peso_kg": 2.1,
+   "exploracion": "Temperatura 39,1 °C.",
+   "tratamiento": "Otomax, 7 días",
+   "notas": "Pide cita de control."
+  },
+  {
+   "fecha": "2026-05-24",
+   "veterinario": "V2",
+   "motivo": "diarrea",
+   "peso_kg": 2.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "dieta blanda y probióticos",
+   "notas": "Morder al explorar: bozal."
+  },
+  {
+   "fecha": "2026-09-02",
+   "veterinario": "V1",
+   "motivo": "herida en una pata",
+   "peso_kg": 2.1,
+   "exploracion": "Mucosas rosadas, hidratación correcta.",
+   "tratamiento": "cura y amoxicilina",
+   "notas": "Pide cita de control."
+  }
+ ]
+}
