@@ -1,0 +1,2895 @@
+{
+ "P-001": [
+  {
+   "date": "2023-01-05",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 13.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2023-07-11",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 13.9,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2024-02-28",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 13.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2024-10-20",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 13.1,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2025-09-25",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 13.1,
+   "exam": "Vital signs normal.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-12-31",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 13.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2026-05-16",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 13.0,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  }
+ ],
+ "P-002": [
+  {
+   "date": "2012-06-11",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 6.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2013-01-23",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 6.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2013-12-31",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 6.3,
+   "exam": "Slightly overweight.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2015-02-05",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 6.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2015-05-14",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 6.3,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2016-06-10",
+   "vet": "V3",
+   "reason": "cough",
+   "weight_kg": 6.4,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2016-08-25",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 6.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2017-10-11",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 6.3,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2018-11-13",
+   "vet": "V1",
+   "reason": "deworming",
+   "weight_kg": 6.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-12-28",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 6.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-07-05",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 6.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2021-07-03",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 6.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2021-10-18",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 6.2,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-12-05",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 6.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-003": [
+  {
+   "date": "2019-01-11",
+   "vet": "V1",
+   "reason": "deworming",
+   "weight_kg": 6.2,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-05-18",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 6.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-05-16",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 6.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-11-21",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 6.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2021-03-14",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 6.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2021-07-29",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 6.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2022-08-22",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 6.1,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-05-22",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 6.0,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2024-07-02",
+   "vet": "V2",
+   "reason": "dermatitis",
+   "weight_kg": 5.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  },
+  {
+   "date": "2025-03-27",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 6.0,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2025-12-06",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 5.8,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  }
+ ],
+ "P-004": [
+  {
+   "date": "2023-02-15",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 13.2,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-06-22",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 12.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2024-05-06",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 13.2,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2024-10-23",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 13.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  },
+  {
+   "date": "2025-03-26",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 13.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2025-07-20",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 13.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2026-03-27",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 13.1,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2026-10-13",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 12.6,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-005": [
+  {
+   "date": "2014-04-26",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 11.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2014-12-31",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 12.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2015-11-28",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 11.7,
+   "exam": "Slightly overweight.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2016-04-01",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 11.8,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2016-07-31",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 12.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2017-03-17",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 12.5,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2018-05-03",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 12.5,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2018-11-06",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 13.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-10-06",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 12.8,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2020-03-21",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 12.6,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2020-10-06",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 12.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2021-10-05",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 12.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-03-07",
+   "vet": "V1",
+   "reason": "deworming",
+   "weight_kg": 12.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-02-10",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 12.4,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-006": [
+  {
+   "date": "2022-03-03",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 20.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2022-09-15",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 21.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-01-01",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 21.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-04-02",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 21.7,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2024-05-06",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 21.0,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2025-06-21",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 20.8,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2026-02-13",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 20.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2026-09-05",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 20.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  }
+ ],
+ "P-007": [
+  {
+   "date": "2023-10-02",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 16.8,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2024-04-13",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 17.0,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2025-02-17",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 16.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-07-05",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 17.0,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-08-24",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 17.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-008": [
+  {
+   "date": "2014-02-02",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 11.5,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2015-02-02",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 11.6,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2015-08-05",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 12.2,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2016-03-13",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 12.6,
+   "exam": "Slightly overweight.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2016-11-20",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 12.5,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2017-02-17",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 12.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2018-02-13",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 12.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2018-07-05",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 12.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2018-10-09",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 12.9,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-10-14",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 12.9,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2020-09-01",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 12.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2021-07-03",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 12.4,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2022-02-25",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 12.2,
+   "exam": "Slightly overweight.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-01-18",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 12.6,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  }
+ ],
+ "P-009": [
+  {
+   "date": "2012-07-30",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 11.7,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2013-08-24",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 11.8,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2014-02-03",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 11.7,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2014-04-29",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 12.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2014-12-27",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 12.0,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2015-12-09",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 12.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2016-03-01",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 12.1,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2016-06-29",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 12.3,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2017-06-15",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 12.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "cleaning under sedation",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2017-11-29",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 12.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2018-12-01",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 11.6,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-05-20",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 11.4,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2020-02-25",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 11.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2020-08-05",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 12.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-010": [
+  {
+   "date": "2016-05-15",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 17.3,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2017-01-13",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 17.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2017-05-31",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 18.1,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2018-06-07",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 18.2,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2018-09-08",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 18.3,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2019-08-13",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 17.7,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-04-28",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 17.5,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2020-06-28",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 17.2,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-10-10",
+   "vet": "V3",
+   "reason": "cough",
+   "weight_kg": 17.5,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2021-10-01",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 18.2,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2022-03-16",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 17.6,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-08-26",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 18.1,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2023-01-28",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 18.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-08-03",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 17.8,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-011": [
+  {
+   "date": "2017-11-17",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 5.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2018-07-25",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 5.7,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2019-07-22",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 5.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "cleaning under sedation",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-07-02",
+   "vet": "V1",
+   "reason": "diarrhea",
+   "weight_kg": 5.8,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2021-04-05",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 5.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-03-27",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 6.0,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2022-07-15",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 5.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2022-09-15",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 6.0,
+   "exam": "Vital signs normal.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2022-11-17",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 6.2,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2023-09-19",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 6.0,
+   "exam": "Slightly overweight.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2024-01-31",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 6.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2025-03-25",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 5.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-05-08",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 5.8,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2026-08-30",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 5.7,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  }
+ ],
+ "P-012": [
+  {
+   "date": "2022-10-23",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 32.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-02-01",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 32.4,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2023-05-30",
+   "vet": "V3",
+   "reason": "ear infection",
+   "weight_kg": 33.6,
+   "exam": "Slightly overweight.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2024-03-01",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 32.6,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2024-07-26",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 31.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-09-12",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 31.6,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2026-05-15",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 32.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Asks for a follow-up visit."
+  }
+ ],
+ "P-013": [
+  {
+   "date": "2023-04-21",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 12.8,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-11-16",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 12.3,
+   "exam": "Vital signs normal.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2024-12-01",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 12.4,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2025-03-29",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 12.7,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2025-11-09",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 12.3,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-014": [
+  {
+   "date": "2015-10-27",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 20.5,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2016-01-01",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 19.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2016-07-20",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 19.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2017-06-16",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 19.2,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2017-12-16",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 18.6,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2018-10-21",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 18.4,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-05-09",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 17.7,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2020-01-19",
+   "vet": "V3",
+   "reason": "dermatitis",
+   "weight_kg": 18.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-07-05",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 17.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2020-12-10",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 17.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2022-01-08",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 16.5,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2022-08-27",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 16.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-03-02",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 16.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-07-13",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 16.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  }
+ ],
+ "P-015": [
+  {
+   "date": "2019-05-06",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 30.2,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-08-29",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 30.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2020-10-20",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 31.2,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2021-04-15",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 31.6,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2022-01-21",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 31.3,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-09-17",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 30.3,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-08-17",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 29.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2024-02-12",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 29.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2025-03-02",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 29.6,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2025-10-25",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 29.2,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-07-02",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 29.5,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-016": [
+  {
+   "date": "2018-09-08",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 10.7,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2019-03-31",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 10.7,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-10-21",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 10.5,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-03-22",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 10.3,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-11-26",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 10.1,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2021-04-10",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 10.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2022-02-16",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 10.7,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2022-12-14",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 10.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2023-07-10",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 10.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2024-07-12",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 10.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2025-07-14",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 10.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2026-07-22",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 10.8,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-017": [
+  {
+   "date": "2016-04-04",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 4.1,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2017-03-15",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 4.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2018-01-15",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 4.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2019-01-10",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 3.9,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2019-10-23",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 3.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2020-05-14",
+   "vet": "V1",
+   "reason": "deworming",
+   "weight_kg": 4.0,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2021-06-20",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 4.2,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2021-10-01",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 4.4,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2022-11-08",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 4.5,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-01-10",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 4.6,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-11-22",
+   "vet": "V2",
+   "reason": "dermatitis",
+   "weight_kg": 4.4,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  },
+  {
+   "date": "2024-11-03",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 4.3,
+   "exam": "Slightly overweight.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2025-11-01",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 4.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-03-07",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 4.2,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-018": [
+  {
+   "date": "2023-04-28",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 5.0,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-10-03",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 4.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2024-01-24",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 4.7,
+   "exam": "Vital signs normal.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2025-01-22",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 4.7,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-12-23",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 4.9,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-06-19",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 5.0,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-019": [
+  {
+   "date": "2018-03-15",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 3.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2019-01-01",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 3.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-10-17",
+   "vet": "V1",
+   "reason": "deworming",
+   "weight_kg": 3.9,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2020-01-22",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 3.9,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2020-10-24",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 3.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2021-05-01",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 4.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2022-02-25",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 4.0,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-07-14",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 3.8,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-09-12",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 3.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-05-09",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 3.9,
+   "exam": "Slightly overweight.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  },
+  {
+   "date": "2024-03-12",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 3.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2024-08-15",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 3.7,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2025-06-02",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 3.6,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2026-01-27",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 3.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-020": [
+  {
+   "date": "2013-11-12",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 7.6,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2014-08-20",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 7.4,
+   "exam": "Slightly overweight.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2015-10-02",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 7.5,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2016-06-11",
+   "vet": "V3",
+   "reason": "limping",
+   "weight_kg": 7.8,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": ""
+  },
+  {
+   "date": "2017-03-28",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 8.2,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2017-12-24",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 8.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2019-01-05",
+   "vet": "V2",
+   "reason": "dermatitis",
+   "weight_kg": 8.3,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2019-04-13",
+   "vet": "V2",
+   "reason": "dermatitis",
+   "weight_kg": 8.6,
+   "exam": "Slightly overweight.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2019-07-27",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 8.6,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-08-08",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 8.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2021-09-01",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 8.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-06-05",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 8.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-07-28",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 8.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2024-06-14",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 8.3,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-021": [
+  {
+   "date": "2017-08-15",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 3.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2018-04-03",
+   "vet": "V3",
+   "reason": "cough",
+   "weight_kg": 3.7,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2018-10-06",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 3.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2019-07-26",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 3.7,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-11-25",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 3.7,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2020-07-25",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 3.8,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2021-07-12",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 3.7,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-08-24",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 3.6,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-03-08",
+   "vet": "V1",
+   "reason": "diarrhea",
+   "weight_kg": 3.5,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-09-15",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 3.4,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2024-02-01",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 3.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2024-04-11",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 3.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2025-03-13",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 3.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": ""
+  },
+  {
+   "date": "2025-12-10",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 3.5,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-022": [
+  {
+   "date": "2014-07-12",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 4.6,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2015-07-20",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 4.5,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2016-02-14",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 4.6,
+   "exam": "Slightly overweight.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2017-03-27",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 4.4,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2017-11-23",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 4.5,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-01-14",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 4.5,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2019-05-02",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 4.4,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2019-12-16",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 4.2,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-08-30",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 4.4,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2021-05-30",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 4.3,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2021-08-20",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 4.3,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-02-01",
+   "vet": "V3",
+   "reason": "weight check",
+   "weight_kg": 4.5,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2023-02-24",
+   "vet": "V2",
+   "reason": "limping",
+   "weight_kg": 4.5,
+   "exam": "Slightly overweight.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-07-02",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 4.6,
+   "exam": "Slightly overweight.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  }
+ ],
+ "P-023": [
+  {
+   "date": "2012-11-08",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 4.1,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2013-09-20",
+   "vet": "V2",
+   "reason": "dermatitis",
+   "weight_kg": 4.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2014-10-28",
+   "vet": "V2",
+   "reason": "deworming",
+   "weight_kg": 4.2,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2015-12-01",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 4.0,
+   "exam": "Slightly overweight.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2016-09-20",
+   "vet": "V1",
+   "reason": "annual checkup",
+   "weight_kg": 3.9,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2016-12-14",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 3.8,
+   "exam": "Vital signs normal.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2018-02-01",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 3.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2019-03-12",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 3.7,
+   "exam": "Slightly overweight.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  },
+  {
+   "date": "2019-10-29",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 3.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-08-11",
+   "vet": "V2",
+   "reason": "weight check",
+   "weight_kg": 3.6,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2021-07-05",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 3.5,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-04-07",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 3.4,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-09-16",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 3.5,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2023-08-24",
+   "vet": "V1",
+   "reason": "diarrhea",
+   "weight_kg": 3.4,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  }
+ ],
+ "P-024": [
+  {
+   "date": "2015-10-11",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 4.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2016-02-18",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 5.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2016-12-25",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 4.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2017-03-23",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 4.9,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2018-01-03",
+   "vet": "V2",
+   "reason": "paw wound",
+   "weight_kg": 4.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2018-07-26",
+   "vet": "V1",
+   "reason": "diarrhea",
+   "weight_kg": 5.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2019-01-28",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 5.2,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2019-09-28",
+   "vet": "V2",
+   "reason": "vomiting",
+   "weight_kg": 5.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2019-12-28",
+   "vet": "V3",
+   "reason": "cough",
+   "weight_kg": 5.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2020-03-25",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 5.1,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2020-06-02",
+   "vet": "V1",
+   "reason": "limping",
+   "weight_kg": 5.0,
+   "exam": "Vital signs normal.",
+   "treatment": "meloxicam, 5 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2021-05-15",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 4.9,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2021-11-14",
+   "vet": "V3",
+   "reason": "deworming",
+   "weight_kg": 4.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2022-10-04",
+   "vet": "V1",
+   "reason": "dermatitis",
+   "weight_kg": 4.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "chlorhexidine shampoo",
+   "notes": ""
+  }
+ ],
+ "P-025": [
+  {
+   "date": "2023-05-16",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 6.0,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2024-05-17",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 6.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2024-10-02",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 6.2,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-10-22",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 6.4,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2026-02-11",
+   "vet": "V1",
+   "reason": "vaccination",
+   "weight_kg": 6.6,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2026-04-21",
+   "vet": "V1",
+   "reason": "dental cleaning",
+   "weight_kg": 6.9,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "cleaning under sedation",
+   "notes": "Very attentive owner."
+  }
+ ],
+ "P-026": [
+  {
+   "date": "2022-01-19",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 3.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2022-11-13",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 3.7,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2023-04-19",
+   "vet": "V1",
+   "reason": "vomiting",
+   "weight_kg": 3.7,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and maropitant",
+   "notes": ""
+  },
+  {
+   "date": "2023-12-05",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 3.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2024-06-25",
+   "vet": "V3",
+   "reason": "ear infection",
+   "weight_kg": 3.8,
+   "exam": "Slightly overweight.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-04-04",
+   "vet": "V2",
+   "reason": "cough",
+   "weight_kg": 3.8,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-10-28",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 3.8,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Bites when examined: use a muzzle."
+  }
+ ],
+ "P-027": [
+  {
+   "date": "2022-11-15",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 4.8,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2023-03-13",
+   "vet": "V3",
+   "reason": "annual checkup",
+   "weight_kg": 4.7,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2024-04-15",
+   "vet": "V3",
+   "reason": "vaccination",
+   "weight_kg": 4.6,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2024-06-18",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 4.7,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2025-07-19",
+   "vet": "V3",
+   "reason": "dental cleaning",
+   "weight_kg": 4.6,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "cleaning under sedation",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2025-09-23",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 4.5,
+   "exam": "Vital signs normal.",
+   "treatment": "doxycycline, 10 days",
+   "notes": ""
+  },
+  {
+   "date": "2026-04-13",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 4.7,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": ""
+  }
+ ],
+ "P-028": [
+  {
+   "date": "2020-04-25",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 1.1,
+   "exam": "Slightly overweight.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2020-11-26",
+   "vet": "V2",
+   "reason": "dental cleaning",
+   "weight_kg": 1.1,
+   "exam": "Slightly overweight.",
+   "treatment": "cleaning under sedation",
+   "notes": ""
+  },
+  {
+   "date": "2021-07-22",
+   "vet": "V2",
+   "reason": "vaccination",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": ""
+  },
+  {
+   "date": "2022-03-04",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 1.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2022-09-12",
+   "vet": "V2",
+   "reason": "annual checkup",
+   "weight_kg": 1.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "none",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2023-04-14",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 1.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2023-07-24",
+   "vet": "V1",
+   "reason": "weight check",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "none",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2024-05-09",
+   "vet": "V3",
+   "reason": "vomiting",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and maropitant",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2024-07-24",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 1.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-01-20",
+   "vet": "V3",
+   "reason": "paw wound",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2025-07-24",
+   "vet": "V3",
+   "reason": "diarrhea",
+   "weight_kg": 1.1,
+   "exam": "Slightly overweight.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-05-13",
+   "vet": "V1",
+   "reason": "diarrhea",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "bland diet and probiotics",
+   "notes": ""
+  },
+  {
+   "date": "2026-08-21",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 1.1,
+   "exam": "Vital signs normal.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  }
+ ],
+ "P-029": [
+  {
+   "date": "2023-06-07",
+   "vet": "V1",
+   "reason": "cough",
+   "weight_kg": 2.2,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2024-01-31",
+   "vet": "V3",
+   "reason": "cough",
+   "weight_kg": 2.2,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "doxycycline, 10 days",
+   "notes": "Very attentive owner."
+  },
+  {
+   "date": "2024-08-02",
+   "vet": "V1",
+   "reason": "ear infection",
+   "weight_kg": 2.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "Otomax, 7 days",
+   "notes": ""
+  },
+  {
+   "date": "2025-04-08",
+   "vet": "V2",
+   "reason": "ear infection",
+   "weight_kg": 2.1,
+   "exam": "Temperature 102.4 °F.",
+   "treatment": "Otomax, 7 days",
+   "notes": "Asks for a follow-up visit."
+  },
+  {
+   "date": "2026-05-24",
+   "vet": "V2",
+   "reason": "diarrhea",
+   "weight_kg": 2.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "bland diet and probiotics",
+   "notes": "Bites when examined: use a muzzle."
+  },
+  {
+   "date": "2026-09-02",
+   "vet": "V1",
+   "reason": "paw wound",
+   "weight_kg": 2.1,
+   "exam": "Pink mucous membranes, well hydrated.",
+   "treatment": "wound care and amoxicillin",
+   "notes": "Asks for a follow-up visit."
+  }
+ ]
+}

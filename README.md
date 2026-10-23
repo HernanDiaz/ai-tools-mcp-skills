@@ -20,6 +20,8 @@ Cada capítulo cambia algo de las herramientas, nunca del modelo, y mide cuánto
 
 Forma parte de la colección **IA en práctica**: libros prácticos de inteligencia artificial con experimentos propios, un cuaderno y un vídeo en cada capítulo.
 
+> *Prefer English?* The English edition, **Tools, MCP and Skills**, is in the [`en/` folder](./en/).
+
 ---
 
 ## Capítulos
@@ -58,7 +60,8 @@ Cada capítulo tiene su cuaderno en Google Colab y su vídeo, con Robotín y el 
 ai-tools-mcp-skills/
 ├── cuadernos/      ← Un cuaderno por capítulo
 ├── datos/          ← La clínica: mascotas, dueños, historial, vacunas, citas, farmacia y facturas
-└── cuaderno/N/     ← Los enlaces del libro a cada cuaderno en Colab
+├── cuaderno/N/     ← Los enlaces del libro a cada cuaderno en Colab
+└── en/            ← La edición inglesa: notebooks, data y sus enlaces
 ```
 
 ---
