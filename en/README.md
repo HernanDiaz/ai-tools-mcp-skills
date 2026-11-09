@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Colab-free%20T4%20GPU-orange?logo=googlecolab" alt="Colab">
   </p>
+  <p>
+    <a href="https://www.amazon.com/dp/B0HPDSVBL3"><img src="https://img.shields.io/badge/Amazon-Paperback-FF9900?logo=amazon&logoColor=white" alt="Paperback on Amazon"></a>
+    <a href="https://www.amazon.com/dp/B0GX32NW6F"><img src="https://img.shields.io/badge/Amazon-Kindle-FF9900?logo=amazon&logoColor=white" alt="Kindle on Amazon"></a>
+  </p>
 </div>
 
 ---

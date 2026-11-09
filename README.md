@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Colab-GPU%20T4%20gratuita-orange?logo=googlecolab" alt="Colab">
   </p>
+  <p>
+    <a href="https://www.amazon.es/dp/B0HPDMVMHN"><img src="https://img.shields.io/badge/Amazon-Tapa%20blanda-FF9900?logo=amazon&logoColor=white" alt="Tapa blanda en Amazon"></a>
+    <a href="https://www.amazon.es/dp/B0HPB8LGLC"><img src="https://img.shields.io/badge/Amazon-Kindle-FF9900?logo=amazon&logoColor=white" alt="Kindle en Amazon"></a>
+  </p>
 </div>
 
 ---
